@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
 
         val btnquiz = findViewById<Button>(R.id.Quiz)
         btnquiz.setOnClickListener{
-            val intent = Intent(this, quiz::class.java)
+            val intent = Intent(this, quiz_questionActivity::class.java)
             startActivity(intent)
         }
 

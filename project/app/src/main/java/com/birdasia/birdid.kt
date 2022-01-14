@@ -17,7 +17,7 @@ class birdid : AppCompatActivity() {
 }
     //handle onback pressed
     override fun onSupportNavigateUp(): Boolean {
-    onBackPressed()
+//    onBackPressed()
     return true
 }
 

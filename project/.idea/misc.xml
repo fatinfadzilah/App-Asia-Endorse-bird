@@ -5,6 +5,7 @@
       <map>
         <entry key="..\:/natif/project/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.21770833333333334" />
         <entry key="..\:/natif/project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21770833333333334" />
+        <entry key="..\:/natif/project/app/src/main/res/drawable/bg_gradient.xml" value="0.271875" />
         <entry key="..\:/natif/project/app/src/main/res/layout/activity_birdsid_one.xml" value="0.20104166666666667" />
         <entry key="..\:/natif/project/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/natif/project/app/src/main/res/layout/activity_main_bird_id.xml" value="0.16" />
@@ -12,9 +13,13 @@
         <entry key="..\:/natif/project/app/src/main/res/layout/activity_mainmenu.xml" value="0.17502532928064843" />
         <entry key="..\:/natif/project/app/src/main/res/layout/activity_menu.xml" value="0.19739583333333333" />
         <entry key="..\:/natif/project/app/src/main/res/layout/activity_splashscreen.xml" value="0.16771844660194174" />
+        <entry key="..\:/natif/project/app/src/main/res/layout/quiz_activity_main.xml" value="0.16847826086956522" />
+        <entry key="..\:/natif/project/app/src/main/res/layout/quiz_activity_questions.xml" value="0.25" />
+        <entry key="..\:/natif/project/app/src/main/res/layout/quiz_activity_result.xml" value="0.5" />
         <entry key="..\:/natif/project/app/src/main/res/layout/quiz_mainmenu.xml" value="0.20104166666666667" />
         <entry key="..\:/natif/project/app/src/main/res/layout/quiz_picture.xml" value="0.20104166666666667" />
         <entry key="..\:/natif/project/app/src/main/res/layout/quiz_sound.xml" value="0.20104166666666667" />
+        <entry key="..\:/natif/project/app/src/main/res/layout/side_index_item.xml" value="0.23981481481481481" />
         <entry key="..\:/natif/project/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21770833333333334" />
       </map>
     </option>
@@ -24,5 +29,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.16847826086956522" />
+      </ProjectState>
+    </option>
   </component>
 </project>
