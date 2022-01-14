@@ -3,6 +3,35 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_bird_a.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_bird_a_1.xml" value="0.3199074074074074" />
+        <entry key="..\:/Users/User/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_bird_b.xml" value="0.3199074074074074" />
+        <entry key="..\:/Users/User/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_bird_b_1.xml" value="0.3199074074074074" />
+        <entry key="..\:/Users/User/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_bird_b_2.xml" value="0.3199074074074074" />
+        <entry key="..\:/Users/User/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_bird_c.xml" value="0.3199074074074074" />
+        <entry key="..\:/Users/User/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_bird_c_1.xml" value="0.3199074074074074" />
+        <entry key="..\:/Users/User/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_bird_d.xml" value="0.3199074074074074" />
+        <entry key="..\:/Users/User/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_bird_d_1.xml" value="0.3199074074074074" />
+        <entry key="..\:/Users/User/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_bird_e.xml" value="0.3199074074074074" />
+        <entry key="..\:/Users/User/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_bird_e_1.xml" value="0.3199074074074074" />
+        <entry key="..\:/Users/User/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_bird_f.xml" value="0.3199074074074074" />
+        <entry key="..\:/Users/User/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_bird_f_1.xml" value="0.3199074074074074" />
+        <entry key="..\:/Users/User/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_birdsid_one.xml" value="0.3199074074074074" />
+        <entry key="..\:/Users/User/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_main_bird_id.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_mainmenu.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_splashscreen.xml" value="0.17546296296296296" />
+        <entry key="..\:/Users/User/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/quiz_activity_questions.xml" value="0.17546296296296296" />
+        <entry key="..\:/Users/User/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/quiz_activity_result.xml" value="0.17546296296296296" />
+        <entry key="..\:/Users/amane/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_birdsid_one.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/amane/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_main_bird_id.xml" value="0.2" />
+        <entry key="..\:/Users/amane/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_main_test.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/amane/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_mainmenu.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/amane/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/activity_splashscreen.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/amane/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/quiz_activity_main.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/amane/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/quiz_activity_questions.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/amane/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/quiz_activity_result.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/amane/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/quiz_mainmenu.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/amane/Desktop/CSM3505_Native-main/project/app/src/main/res/layout/quiz_picture.xml" value="0.13994565217391305" />
         <entry key="..\:/natif/project/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.21770833333333334" />
         <entry key="..\:/natif/project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21770833333333334" />
         <entry key="..\:/natif/project/app/src/main/res/drawable/bg_gradient.xml" value="0.271875" />
@@ -33,7 +62,7 @@
   <component name="VisualizationToolProject">
     <option name="state">
       <ProjectState>
-        <option name="scale" value="0.16847826086956522" />
+        <option name="scale" value="0.1" />
       </ProjectState>
     </option>
   </component>

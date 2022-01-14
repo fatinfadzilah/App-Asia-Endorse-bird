@@ -1,15 +1,160 @@
 <?xml version="1.0" encoding="utf-8"?>
-    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:tools="http://schemas.android.com/tools"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="vertical"
-        android:paddingLeft="5dp"
-        tools:context=".birdid"
-        android:gravity="center_vertical" >
-        android:baselineAligned="false" >
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp"
+    android:background="@android:color/white"
+    tools:context=".MainActivity">
 
 
-    </LinearLayout>
+    <GridLayout
+        android:id="@+id/main_grid"
+        android:layout_width="386dp"
+        android:layout_height="554dp"
+        android:columnCount="2"
+        android:rowCount="8"
+        android:rowOrderPreserved="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="86dp">
 
 
+        <ImageButton
+            android:id="@+id/img_c"
+            android:layout_width="206dp"
+            android:layout_height="147dp"
+            android:layout_column="0"
+            android:layout_row="3"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/c_lophurabulweri"
+            tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/img_b"
+            android:layout_width="183dp"
+            android:layout_height="149dp"
+            android:layout_column="1"
+            android:layout_row="0"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/b_arborophyila_campbelli"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/img_a"
+            android:layout_width="205dp"
+            android:layout_height="149dp"
+            android:layout_column="0"
+            android:layout_row="0"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/a_arachothera_juliae"
+            tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/img_d"
+            android:layout_width="184dp"
+            android:layout_height="143dp"
+            android:layout_column="1"
+            android:layout_row="3"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/d_megalaima_monticola"
+            tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/img_e"
+            android:layout_width="203dp"
+            android:layout_height="143dp"
+            android:layout_column="0"
+            android:layout_row="5"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/e_polyplectron_inopinatum"
+            tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+        <TextView
+            android:id="@+id/a"
+            android:layout_width="208dp"
+            android:layout_height="41dp"
+            android:layout_column="0"
+            android:layout_row="2"
+            android:text="Arachothera"
+            android:textAlignment="center"
+            android:textColor="#050505"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/b"
+            android:layout_width="181dp"
+            android:layout_height="42dp"
+            android:layout_column="1"
+            android:layout_row="2"
+            android:text="Arborophylia"
+            android:textAlignment="center"
+            android:textColor="#050505"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/c"
+            android:layout_width="208dp"
+            android:layout_height="41dp"
+            android:layout_column="0"
+            android:layout_row="4"
+            android:text="@string/lophura"
+            android:textAlignment="center"
+            android:textColor="#050505"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/d"
+            android:layout_width="184dp"
+            android:layout_height="41dp"
+            android:layout_column="1"
+            android:layout_row="4"
+            android:text="Megalaima"
+            android:textAlignment="center"
+            android:textColor="#050505"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/e"
+            android:layout_width="208dp"
+            android:layout_height="41dp"
+            android:layout_column="0"
+            android:layout_row="6"
+            android:text="Polyplectron"
+            android:textAlignment="center"
+            android:textColor="#050505"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <ImageButton
+            android:id="@+id/img_f"
+            android:layout_width="183dp"
+            android:layout_height="144dp"
+            android:layout_column="1"
+            android:layout_row="5"
+            android:scaleType="centerInside"
+            app:srcCompat="@drawable/f_pycnonotus_leucops"
+            tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="184dp"
+            android:layout_height="41dp"
+            android:layout_column="1"
+            android:layout_row="6"
+            android:text="Pycnonotus"
+            android:textAlignment="center"
+            android:textColor="#050505"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+    </GridLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

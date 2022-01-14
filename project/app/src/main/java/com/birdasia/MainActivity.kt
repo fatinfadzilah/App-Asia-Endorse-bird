@@ -25,8 +25,11 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, quiz_questionActivity::class.java)
             startActivity(intent)
         }
-
     }
+
+
+
+
     private var doubleBackToExitPressedOnce = false
     override fun onBackPressed() {
         if (doubleBackToExitPressedOnce) {

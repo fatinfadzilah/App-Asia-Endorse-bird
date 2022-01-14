@@ -23,6 +23,9 @@
             android:name=".birdid"
             android:screenOrientation="portrait" />
         <activity
+            android:name=".bird_a"
+            android:screenOrientation="portrait" />
+        <activity
             android:name=".quiz_questionActivity"
             android:screenOrientation="portrait" />
         <activity android:name=".quiz_resultActivity"

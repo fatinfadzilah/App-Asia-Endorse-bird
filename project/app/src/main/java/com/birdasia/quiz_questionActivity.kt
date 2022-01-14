@@ -25,6 +25,16 @@ class quiz_questionActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.quiz_activity_questions)
 
+
+        //actionbar
+        val actionbar = supportActionBar
+        //set actionbar title
+        actionbar!!.title = "Quiz "
+        //set back button
+        actionbar.setDisplayHomeAsUpEnabled(true)
+        actionbar.setDisplayHomeAsUpEnabled(true)
+
+
         setQuestion(questions, currentIndex)
 
         initOptions(questions)
@@ -133,6 +143,14 @@ class quiz_questionActivity : AppCompatActivity() {
         txtOption3.text = question.options[2]
         txtOption4.text = question.options[3]
     }
+
+
+
+
+override fun onSupportNavigateUp(): Boolean {
+    onBackPressed()
+    return true
+}
 
 
 }

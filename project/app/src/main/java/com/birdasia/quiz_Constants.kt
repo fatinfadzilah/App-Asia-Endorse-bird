@@ -7,45 +7,45 @@ object quiz_Constants {
 
         val quest1=quiz_question(
             1,
-            "Which of these best describes an array?",
+            "Family name for Lophura bulweri?",
             0,
-            mutableListOf<String>("A data structure that shows a hierarchical behavior",
-                "Container of objects of similar types",
-                "Arrays are immutable once initialised",
-                "Array is not a data structure"),
+            mutableListOf<String>("Calyptomena hosii",
+                "Phasianidae",
+                "Calyptomena whiteheadi",
+                "White-crowned Shama"),
             1
         )
 
         val quest2=quiz_question(
             2,
-            "How do you initialize an array in C?",
+            "Arachothera everetti local name for?",
             0,
-            mutableListOf<String>("int arr[3] = (1,2,3);",
-                "int arr(3) = {1,2,3};",
-                "int arr[3] = {1,2,3};",
-                "int arr(3) = (1,2,3);"),
+            mutableListOf<String>("Whitehead’s Spiderhunter",
+                "Friendly Bush Warbler",
+                "Bornean Spiderhunter",
+                "Mountain Black-eye"),
             2
         )
 
         val quest3=quiz_question(
             3,
-            "How do you instantiate an array in Java?",
+            "Songbird in the bulbul family.Which one is SongBird?",
             0,
-            mutableListOf<String>("int arr[] = new int(3);",
-                "int arr[];",
-                "int arr[] = new int[3];",
-                "int arr() = new int(3);"),
+            mutableListOf<String>("Yellow-vented bulbul",
+                "Mountain peacock-pheasant",
+                "Pale-faced bulbul",
+                "Malayan peacock-pheasant"),
             2
         )
 
         val quest4=quiz_question(
             4,
-            " Which of the following is the correct way to declare a multidimensional array in Java?",
+            "Where is Bornean barbet habitats  ?",
             0,
-            mutableListOf<String>("int[] arr;",
-                "int arr[[]];",
-                "int[][]arr;",
-                "int[[]] arr;"),
+            mutableListOf<String>("Myammar and Indonesia",
+                "Malaysia and Singapore",
+                "Indonesia and Malaysia",
+                "Thailand and Indonesia"),
             2
         )
 
